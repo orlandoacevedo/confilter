@@ -1,6 +1,6 @@
 # Conformer Filtration (confilter)
 
-Conformer Filtration (confilter) a package for similar molecules filtration for the data preparation of Machine Learning
+Conformer Filtration (confilter) is a package for unique molecule filtration in machine learning databases.
 
 
 Xiang Zhong and [Orlando Acevedo*](https://web.as.miami.edu/chemistrylabs/acevedogroup/research.html), University of Miami
