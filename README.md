@@ -120,9 +120,10 @@ Please refer to **doc/** for more information.
 
 **Contributing Authors**: Xiang Zhong and [Orlando Acevedo*](https://web.as.miami.edu/chemistrylabs/acevedogroup/research.html)
 
-**Software License**:
-Conformer Filtration (confilter) software package.
-Funding: Gratitude is expressed to the National Science Foundation (CHE-2102038) for the support of this research.
+**Software License**: Conformer Filtration (confilter) software package.
+
+**Funding**: Gratitude is expressed to the National Science Foundation (CHE-2102038) for the support of this research.
+
 Copyright (C) 2023  Orlando Acevedo
 
 
