@@ -122,6 +122,7 @@ Please refer to **doc/** for more information.
 
 **Software License**:
 Conformer Filtration (confilter) software package.
-Copyright (C) 2021  Orlando Acevedo
+Funding: Gratitude is expressed to the National Science Foundation (CHE-2102038) for the support of this research.
+Copyright (C) 2023  Orlando Acevedo
 
 
